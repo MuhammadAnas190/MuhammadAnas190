@@ -42,3 +42,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAnas190&layout=compact&theme=vision-friendly-dark)
 
 <img src="https://komarev.com/ghpvc/?username=MohammadAnas190&style=flat-square&color=blue" alt=""/>
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
